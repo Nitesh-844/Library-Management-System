@@ -9,8 +9,6 @@
 **Level**: Intermediate  
 **Database**: `library_db`
 
-![ERD1](https://github.com/user-attachments/assets/1ac0cfce-50a2-4dee-b65c-f4dbf245e677)
-
 This project demonstrates the implementation of a Library Management System using SQL. It includes creating and managing tables, performing CRUD operations, and executing advanced SQL queries. The goal is to showcase skills in database design, manipulation, and querying.
 
 ## Objectives
@@ -110,6 +108,8 @@ CREATE TABLE return_status
 );
 
 ```
+
+![ERD1](https://github.com/user-attachments/assets/1ac0cfce-50a2-4dee-b65c-f4dbf245e677)
 
 ### 2. CRUD Operations
 
