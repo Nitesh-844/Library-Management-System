@@ -1,6 +1,9 @@
 # Library-Management-System
 # Library Management System using SQL Project
 
+![ERD1](https://github.com/user-attachments/assets/5f02fff8-1e22-48af-9216-3bf8d0477e50)
+
+
 ## Project Overview
 
 **Project Title**: Library Management System  
